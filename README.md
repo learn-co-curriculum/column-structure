@@ -1,4 +1,4 @@
-## Column Structure using CSS
+# Column Structure using CSS
 
 ## Problem Statement
 
