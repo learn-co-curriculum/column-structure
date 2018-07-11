@@ -7,7 +7,6 @@ that emulate print with little to no added markup that can adapt beyond a fixed 
 the right combination of properties, building columns with CSS create a responsive-friendly
 layout option that degrades gracefully.
 
-
 ## Objectives
 1. Explain how to create columns in CSS
 
